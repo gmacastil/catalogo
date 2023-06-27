@@ -61,8 +61,8 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-   name: BAO(Averias)
-   description: BAO(Averias)
+   name: BAOAverias
+   description: BAOAverias
 spec:
    type: legacy
    lifecycle: production
