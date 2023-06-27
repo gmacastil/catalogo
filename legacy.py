@@ -8,6 +8,7 @@ for line in fin:
     fout.write("   description: " + line)
     fout.write("spec:\n")
     fout.write("   type: legacy\n")
+    fout.write("   lifecycle: production\n")
     fout.write("   owner: gobierno-it\n")
     fout.write("---\n")
 fin.close()

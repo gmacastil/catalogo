@@ -5,6 +5,7 @@ metadata:
    description: ACS
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -14,6 +15,7 @@ metadata:
    description: Activador
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -23,6 +25,7 @@ metadata:
    description: Agendador
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -32,6 +35,7 @@ metadata:
    description: Altamira
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -41,6 +45,7 @@ metadata:
    description: AppB2B
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -50,6 +55,7 @@ metadata:
    description: AppMiMovistar
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -59,6 +65,7 @@ metadata:
    description: BAO(Averias)
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -68,6 +75,7 @@ metadata:
    description: Callejero
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -77,6 +85,7 @@ metadata:
    description: ChatbotB2B
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -86,6 +95,7 @@ metadata:
    description: ChatbotB2C
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -95,6 +105,7 @@ metadata:
    description: ChatbotTecnico
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -104,6 +115,7 @@ metadata:
    description: Confronta
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -113,6 +125,7 @@ metadata:
    description: CoredePagos
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -122,6 +135,7 @@ metadata:
    description: Cronos
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -131,6 +145,7 @@ metadata:
    description: CronosHGP
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -140,6 +155,7 @@ metadata:
    description: CronosViabilizador
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -149,6 +165,7 @@ metadata:
    description: Datastage
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -158,6 +175,7 @@ metadata:
    description: Doc1
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -167,6 +185,7 @@ metadata:
    description: FieldServiceTools
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -176,6 +195,7 @@ metadata:
    description: FullStack
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -185,6 +205,7 @@ metadata:
    description: GVP
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -194,6 +215,7 @@ metadata:
    description: Georreferenciador
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -203,6 +225,7 @@ metadata:
    description: HGP
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -212,6 +235,7 @@ metadata:
    description: Hada
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -221,6 +245,7 @@ metadata:
    description: IVR
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -230,6 +255,7 @@ metadata:
    description: IdVision
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -239,6 +265,7 @@ metadata:
    description: Iris
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -248,6 +275,7 @@ metadata:
    description: MTH
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -257,6 +285,7 @@ metadata:
    description: Maximo
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -266,6 +295,7 @@ metadata:
    description: Mcare
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -275,6 +305,7 @@ metadata:
    description: MovistarCO
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -284,6 +315,7 @@ metadata:
    description: MovistarMoney
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -293,6 +325,7 @@ metadata:
    description: Nabis
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -302,6 +335,7 @@ metadata:
    description: ODS
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -311,6 +345,7 @@ metadata:
    description: OSP
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -320,6 +355,7 @@ metadata:
    description: OnNet
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -329,6 +365,7 @@ metadata:
    description: PCO
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -338,6 +375,7 @@ metadata:
    description: Papiros
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -347,6 +385,7 @@ metadata:
    description: RTD
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -356,6 +395,7 @@ metadata:
    description: SAP
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -365,6 +405,7 @@ metadata:
    description: SAS
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -374,6 +415,7 @@ metadata:
    description: SCL
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -383,6 +425,7 @@ metadata:
    description: SIP
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -392,6 +435,7 @@ metadata:
    description: Salesforce
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -401,6 +445,7 @@ metadata:
    description: TOA
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -410,6 +455,7 @@ metadata:
    description: TOAETADirect
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -419,6 +465,7 @@ metadata:
    description: TRS
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
@@ -428,5 +475,6 @@ metadata:
    description: USSD
 spec:
    type: legacy
+   lifecycle: production
    owner: gobierno-it
 ---
