@@ -1,432 +1,432 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: ACS
-	description: ACS
+   name: ACS
+   description: ACS
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Activador
-	description: Activador
+   name: Activador
+   description: Activador
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Agendador
-	description: Agendador
+   name: Agendador
+   description: Agendador
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Altamira
-	description: Altamira
+   name: Altamira
+   description: Altamira
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: AppB2B
-	description: AppB2B
+   name: AppB2B
+   description: AppB2B
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: AppMiMovistar
-	description: AppMiMovistar
+   name: AppMiMovistar
+   description: AppMiMovistar
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: BAO(Averias)
-	description: BAO(Averias)
+   name: BAO(Averias)
+   description: BAO(Averias)
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Callejero
-	description: Callejero
+   name: Callejero
+   description: Callejero
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: ChatbotB2B
-	description: ChatbotB2B
+   name: ChatbotB2B
+   description: ChatbotB2B
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: ChatbotB2C
-	description: ChatbotB2C
+   name: ChatbotB2C
+   description: ChatbotB2C
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: ChatbotTecnico
-	description: ChatbotTecnico
+   name: ChatbotTecnico
+   description: ChatbotTecnico
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Confronta
-	description: Confronta
+   name: Confronta
+   description: Confronta
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: CoredePagos
-	description: CoredePagos
+   name: CoredePagos
+   description: CoredePagos
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Cronos
-	description: Cronos
+   name: Cronos
+   description: Cronos
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: CronosHGP
-	description: CronosHGP
+   name: CronosHGP
+   description: CronosHGP
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: CronosViabilizador
-	description: CronosViabilizador
+   name: CronosViabilizador
+   description: CronosViabilizador
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Datastage
-	description: Datastage
+   name: Datastage
+   description: Datastage
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Doc1
-	description: Doc1
+   name: Doc1
+   description: Doc1
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: FieldServiceTools
-	description: FieldServiceTools
+   name: FieldServiceTools
+   description: FieldServiceTools
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: FullStack
-	description: FullStack
+   name: FullStack
+   description: FullStack
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: GVP
-	description: GVP
+   name: GVP
+   description: GVP
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Georreferenciador
-	description: Georreferenciador
+   name: Georreferenciador
+   description: Georreferenciador
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: HGP
-	description: HGP
+   name: HGP
+   description: HGP
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Hada
-	description: Hada
+   name: Hada
+   description: Hada
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: IVR
-	description: IVR
+   name: IVR
+   description: IVR
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: IdVision
-	description: IdVision
+   name: IdVision
+   description: IdVision
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Iris
-	description: Iris
+   name: Iris
+   description: Iris
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: MTH
-	description: MTH
+   name: MTH
+   description: MTH
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Maximo
-	description: Maximo
+   name: Maximo
+   description: Maximo
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Mcare
-	description: Mcare
+   name: Mcare
+   description: Mcare
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: MovistarCO
-	description: MovistarCO
+   name: MovistarCO
+   description: MovistarCO
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: MovistarMoney
-	description: MovistarMoney
+   name: MovistarMoney
+   description: MovistarMoney
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Nabis
-	description: Nabis
+   name: Nabis
+   description: Nabis
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: ODS
-	description: ODS
+   name: ODS
+   description: ODS
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: OSP
-	description: OSP
+   name: OSP
+   description: OSP
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: OnNet
-	description: OnNet
+   name: OnNet
+   description: OnNet
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: PCO
-	description: PCO
+   name: PCO
+   description: PCO
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Papiros
-	description: Papiros
+   name: Papiros
+   description: Papiros
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: RTD
-	description: RTD
+   name: RTD
+   description: RTD
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: SAP
-	description: SAP
+   name: SAP
+   description: SAP
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: SAS
-	description: SAS
+   name: SAS
+   description: SAS
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: SCL
-	description: SCL
+   name: SCL
+   description: SCL
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: SIP
-	description: SIP
+   name: SIP
+   description: SIP
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: Salesforce
-	description: Salesforce
+   name: Salesforce
+   description: Salesforce
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: TOA
-	description: TOA
+   name: TOA
+   description: TOA
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: TOAETADirect
-	description: TOAETADirect
+   name: TOAETADirect
+   description: TOAETADirect
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: TRS
-	description: TRS
+   name: TRS
+   description: TRS
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-	name: USSD
-	description: USSD
+   name: USSD
+   description: USSD
 spec:
-	type: legacy
-	owner: gobierno-it
+   type: legacy
+   owner: gobierno-it
 ---

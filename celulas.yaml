@@ -1,333 +1,333 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaMarketingDigital
-	description: CelulaMarketingDigital
+   name: CelulaMarketingDigital
+   description: CelulaMarketingDigital
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaDigitalizacionDeProcesos
-	description: CelulaDigitalizacionDeProcesos
+   name: CelulaDigitalizacionDeProcesos
+   description: CelulaDigitalizacionDeProcesos
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaKaizen
-	description: CelulaKaizen
+   name: CelulaKaizen
+   description: CelulaKaizen
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaAIOPS
-	description: CelulaAIOPS
+   name: CelulaAIOPS
+   description: CelulaAIOPS
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaAIOPSredes
-	description: CelulaAIOPSredes
+   name: CelulaAIOPSredes
+   description: CelulaAIOPSredes
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaAtlantisTelefonica
-	description: CelulaAtlantisTelefonica
+   name: CelulaAtlantisTelefonica
+   description: CelulaAtlantisTelefonica
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaAutogestion
-	description: CelulaAutogestion
+   name: CelulaAutogestion
+   description: CelulaAutogestion
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaAxia
-	description: CelulaAxia
+   name: CelulaAxia
+   description: CelulaAxia
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaBillingAndPayment
-	description: CelulaBillingAndPayment
+   name: CelulaBillingAndPayment
+   description: CelulaBillingAndPayment
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaBotana
-	description: CelulaBotana
+   name: CelulaBotana
+   description: CelulaBotana
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaBotTec
-	description: CelulaBotTec
+   name: CelulaBotTec
+   description: CelulaBotTec
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaCloudTI
-	description: CelulaCloudTI
+   name: CelulaCloudTI
+   description: CelulaCloudTI
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaCoeAgilidad
-	description: CelulaCoeAgilidad
+   name: CelulaCoeAgilidad
+   description: CelulaCoeAgilidad
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaCoeDatayAnalitica
-	description: CelulaCoeDatayAnalitica
+   name: CelulaCoeDatayAnalitica
+   description: CelulaCoeDatayAnalitica
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaDark
-	description: CelulaDark
+   name: CelulaDark
+   description: CelulaDark
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaEficienciaOperativaDRH
-	description: CelulaEficienciaOperativaDRH
+   name: CelulaEficienciaOperativaDRH
+   description: CelulaEficienciaOperativaDRH
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaExperienciaUsoySoporteProducto
-	description: CelulaExperienciaUsoySoporteProducto
+   name: CelulaExperienciaUsoySoporteProducto
+   description: CelulaExperienciaUsoySoporteProducto
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaGestionEconomica
-	description: CelulaGestionEconomica
+   name: CelulaGestionEconomica
+   description: CelulaGestionEconomica
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaGobiernoDatosBigdata
-	description: CelulaGobiernoDatosBigdata
+   name: CelulaGobiernoDatosBigdata
+   description: CelulaGobiernoDatosBigdata
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaGU
-	description: CelulaGU
+   name: CelulaGU
+   description: CelulaGU
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaInnovacionExperienciaClientesB2B
-	description: CelulaInnovacionExperienciaClientesB2B
+   name: CelulaInnovacionExperienciaClientesB2B
+   description: CelulaInnovacionExperienciaClientesB2B
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaKodopco
-	description: CelulaKodopco
+   name: CelulaKodopco
+   description: CelulaKodopco
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaLiksi
-	description: CelulaLiksi
+   name: CelulaLiksi
+   description: CelulaLiksi
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaMedicionDesempeno
-	description: CelulaMedicionDesempeno
+   name: CelulaMedicionDesempeno
+   description: CelulaMedicionDesempeno
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaMeraki
-	description: CelulaMeraki
+   name: CelulaMeraki
+   description: CelulaMeraki
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaMoebius
-	description: CelulaMoebius
+   name: CelulaMoebius
+   description: CelulaMoebius
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaParametrizacion
-	description: CelulaParametrizacion
+   name: CelulaParametrizacion
+   description: CelulaParametrizacion
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaRadix
-	description: CelulaRadix
+   name: CelulaRadix
+   description: CelulaRadix
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaRenew
-	description: CelulaRenew
+   name: CelulaRenew
+   description: CelulaRenew
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaSequoia
-	description: CelulaSequoia
+   name: CelulaSequoia
+   description: CelulaSequoia
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaServiciosAdministrativos
-	description: CelulaServiciosAdministrativos
+   name: CelulaServiciosAdministrativos
+   description: CelulaServiciosAdministrativos
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaSoporteCasaCliente
-	description: CelulaSoporteCasaCliente
+   name: CelulaSoporteCasaCliente
+   description: CelulaSoporteCasaCliente
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaSulis
-	description: CelulaSulis
+   name: CelulaSulis
+   description: CelulaSulis
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaTamesys
-	description: CelulaTamesys
+   name: CelulaTamesys
+   description: CelulaTamesys
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaVentasDigitalesPrepago
-	description: CelulaVentasDigitalesPrepago
+   name: CelulaVentasDigitalesPrepago
+   description: CelulaVentasDigitalesPrepago
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaVentaTerminales
-	description: CelulaVentaTerminales
+   name: CelulaVentaTerminales
+   description: CelulaVentaTerminales
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-	name: CelulaYoiOwari
-	description: CelulaYoiOwari
+   name: CelulaYoiOwari
+   description: CelulaYoiOwari
 spec:
-	owner: gobierno-it
-	domain: plataformas
+   owner: gobierno-it
+   domain: plataformas
 ---
