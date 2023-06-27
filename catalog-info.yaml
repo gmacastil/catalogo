@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
-    - Java Spring Boot
+    - JavaSpringBoot
     - B2C
     - Movil
     - Pagos
@@ -27,7 +27,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
-    - Java Spring Boot
+    - JavaSpringBoot
     - B2C
     - Movil
     - Pagos
