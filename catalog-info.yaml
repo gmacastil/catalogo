@@ -49,6 +49,7 @@ spec:
     - component:Papiros
   dependsOn:
     - component:SAP
+    - resource:OCP
   providesApis:
     - microt01
   
