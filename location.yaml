@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: loc-telefonica
+  description: Archivos del catalogo
+spec:
+  targets:
+    - ./tren.yaml
+    - ./celulas.yaml 
+    - ./legacy.yaml
+    - ./k8s.yaml
+    - ./catalog-info.yaml
+
+    
+

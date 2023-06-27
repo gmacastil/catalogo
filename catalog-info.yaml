@@ -1,0 +1,46 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: microt01
+  description: microt01
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - Java Spring Boot
+    - B2C
+    - Movil
+    - Pagos
+    - Reuso
+spec:
+  type: openapi 
+  owner: alecasti
+  lifecycle: production
+  system: CelulaRadix
+  definition: 
+    $text: /docs/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: microt01
+  description: microt01
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - Java Spring Boot
+    - B2C
+    - Movil
+    - Pagos
+    - Reuso
+spec:
+  type: Microservicio
+  owner: alecasti
+  lifecycle: production
+  system: CelulaRadix
+  apiConsumedBy: 
+    - component:Papiros
+  dependsOn:
+    - component:SAP
+  providesApis:
+    - microt01
+  
