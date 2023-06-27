@@ -6,11 +6,11 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
-    - JavaSpringBoot
-    - B2C
-    - Movil
-    - Pagos
-    - Reuso
+    - javaspringboot
+    - b2c
+    - movil
+    - pagos
+    - reuso
 spec:
   type: openapi 
   owner: alecasti
@@ -27,11 +27,11 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
-    - JavaSpringBoot
-    - B2C
-    - Movil
-    - Pagos
-    - Reuso
+    - javaspringboot
+    - b2c
+    - movil
+    - pagos
+    - reuso
 spec:
   type: Microservicio
   owner: alecasti
