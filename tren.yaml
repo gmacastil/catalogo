@@ -82,9 +82,9 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-   name: logistica-&-terminales
-   description: logistica-&-terminales
-   title: logistica-&-terminales
+   name: logistica-y-terminales
+   description: logistica-y-terminales
+   title: logistica-y-terminales
 spec:
    owner: gobierno-it
 ---

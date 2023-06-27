@@ -7,7 +7,7 @@ alianzas-y-proyectos-estrategicos
 coe-ingenieria
 segmento-b2c
 prepago
-logistica-&-terminales
+logistica-y-terminales
 tren-propuesta-de-valor
 tren-e-commerce
 tren-e-care
