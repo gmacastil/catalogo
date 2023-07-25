@@ -1,5 +1,6 @@
 fin = open("legacy.txt", "rt")
-fout = open("legacy.yaml", "wt")
+open('components.yaml', 'w').close()
+fout = open("components.yaml", "wt")
 for line in fin:
     fout.write("apiVersion: backstage.io/v1alpha1\n")
     fout.write("kind: Component\n")
@@ -9,7 +10,7 @@ for line in fin:
     fout.write("spec:\n")
     fout.write("   type: legacy\n")
     fout.write("   lifecycle: production\n")
-    fout.write("   owner: gobierno-it\n")
+    fout.write("   owner: Infraestructura\n")
     fout.write("---\n")
 fin.close()
 fout.close()

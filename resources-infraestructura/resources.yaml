@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+   name: ocp
+   description: Cluster OpenShift
+   title: Cluster OpenShift
+spec:
+   type: k8s
+   owner: Cloud
+   system: integracion-ocp
+

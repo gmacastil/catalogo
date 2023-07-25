@@ -1,0 +1,162 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaTamesys
+   description: CelulaTamesys
+spec:
+   type: team
+   parent: TrenAplicaciones
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaAtlantisTelefonica
+   description: CelulaAtlantisTelefonica
+spec:
+   type: team
+   parent: TrenAplicaciones
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaYoiOwari
+   description: CelulaYoiOwari
+spec:
+   type: team
+   parent: TrenAplicaciones
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaSequoia
+   description: CelulaSequoia
+spec:
+   type: team
+   parent: TrenAplicaciones
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaRenew
+   description: CelulaRenew
+spec:
+   type: team
+   parent: TrenAplicaciones
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaSoporteCasaCliente
+   description: CelulaSoporteCasaCliente
+spec:
+   type: team
+   parent: TrenAplicaciones
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaAIOPS
+   description: CelulaAIOPS
+spec:
+   type: team
+   parent: TrenSharedServiceseInfraestructura
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaMeraki
+   description: CelulaMeraki
+spec:
+   type: team
+   parent: TrenSharedServiceseInfraestructura
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaRadix
+   description: CelulaRadix
+spec:
+   type: team
+   parent: TrenSharedServiceseInfraestructura
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaInnovacionExperienciaClientesB2B
+   description: CelulaInnovacionExperienciaClientesB2B
+spec:
+   type: team
+   parent: ProductoB2B
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaDigitalizacionDeProcesos
+   description: CelulaDigitalizacionDeProcesos
+spec:
+   type: team
+   parent: ProductoB2B
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaAxia
+   description: CelulaAxia
+spec:
+   type: team
+   parent: TrenPropuestadeValor
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaVentasDigitalesPrepago
+   description: CelulaVentasDigitalesPrepago
+spec:
+   type: team
+   parent: TrenE-commerce
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaBotana
+   description: CelulaBotana
+spec:
+   type: team
+   parent: TrenE-care
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaCoeDatayAnalitica
+   description: CelulaCoeDatayAnalitica
+spec:
+   type: team
+   parent: CoEDatayAnalítica
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaKodopco
+   description: CelulaKodopco
+spec:
+   type: team
+   parent: TrenFareco
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaBillingAndPayment
+   description: CelulaBillingAndPayment
+spec:
+   type: team
+   parent: TrenFareco
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CelulaAIOPSredes
+   description: CelulaAIOPSredes
+spec:
+   type: team
+   parent: OperacionesRedes
+---

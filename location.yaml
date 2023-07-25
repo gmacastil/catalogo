@@ -5,11 +5,13 @@ metadata:
   description: Archivos del catalogo
 spec:
   targets:
-    - ./tren.yaml
-    - ./celulas.yaml 
-    - ./legacy.yaml
-    - ./k8s.yaml
     - ./catalog-info.yaml
+    - ./resources-infraestructura/resources.yaml
+    - ./groups-tren-celula/trenes.yaml
+    - ./groups-tren-celula/celulas.yaml
+    - ./components-legacy/components.yaml
+    - ./sytems-soluciones/systems.yaml
+
 
     
 

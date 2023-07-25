@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+   name: integracion-ocp
+   description: Servicios de integración OCP
+   title: Servicios de integración OCP
+spec:
+   owner: Cloud
+   domain: integracion
+

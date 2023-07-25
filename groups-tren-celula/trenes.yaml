@@ -1,0 +1,168 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenAplicaciones
+   description: Tren Aplicaciones
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenAplicaciones
+   description: Tren Aplicaciones
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenAplicaciones
+   description: Tren Aplicaciones
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenAplicaciones
+   description: Tren Aplicaciones
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenAplicaciones
+   description: Tren Aplicaciones
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenAplicaciones
+   description: Tren Aplicaciones
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenSharedServiceseInfraestructura
+   description: Tren Shared Services e Infraestructura
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenSharedServiceseInfraestructura
+   description: Tren Shared Services e Infraestructura
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenSharedServiceseInfraestructura
+   description: Tren Shared Services e Infraestructura
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: ProductoB2B
+   description: Producto B2B
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: ProductoB2B
+   description: Producto B2B
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenPropuestadeValor
+   description: Tren Propuesta de Valor
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenE-commerce
+   description: Tren E-commerce
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenE-care
+   description: Tren E-care
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: CoEDatayAnalítica
+   description: CoE Data y Analítica
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenFareco
+   description: Tren Fareco
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: TrenFareco
+   description: Tren Fareco
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: OperacionesRedes
+   description: Operaciones Redes
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: Arquitectura
+   description: Arquitectura
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: Cloud
+   description: Cloud
+spec:
+   type: team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+   name: Infraestructura
+   description: Infraestructura
+spec:
+   type: team
+---

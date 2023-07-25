@@ -6,7 +6,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -16,7 +16,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -26,7 +26,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -36,7 +36,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -46,7 +46,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -56,7 +56,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -66,7 +66,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -76,7 +76,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -86,7 +86,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -96,7 +96,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -106,7 +106,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -116,7 +116,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -126,7 +126,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -136,7 +136,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -146,7 +146,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -156,7 +156,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -166,7 +166,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -176,7 +176,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -186,7 +186,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -196,7 +196,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -206,7 +206,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -216,7 +216,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -226,7 +226,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -236,7 +236,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -246,7 +246,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -256,7 +256,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -266,7 +266,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -276,7 +276,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -286,7 +286,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -296,7 +296,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -306,7 +306,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -316,7 +316,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -326,7 +326,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -336,7 +336,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -346,7 +346,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -356,7 +356,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -366,7 +366,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -376,7 +376,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -386,7 +386,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -396,7 +396,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -406,7 +406,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -416,7 +416,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -426,7 +426,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -436,7 +436,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -446,7 +446,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -456,7 +456,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -466,7 +466,7 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -476,5 +476,5 @@ metadata:
 spec:
    type: legacy
    lifecycle: production
-   owner: gobierno-it
+   owner: Infraestructura
 ---
