@@ -10,6 +10,8 @@ spec:
     - ./groups-tren-celula/celulas.yaml
     - ./components-legacy/components.yaml
     - ./sytems-soluciones/systems.yaml
+    - ./domains/domains.yml
+
 
 
     
