@@ -5,7 +5,6 @@ metadata:
   description: Archivos del catalogo
 spec:
   targets:
-    - ./catalog-info.yaml
     - ./resources-infraestructura/resources.yaml
     - ./groups-tren-celula/trenes.yaml
     - ./groups-tren-celula/celulas.yaml

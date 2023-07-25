@@ -48,8 +48,8 @@ spec:
   apiConsumedBy: 
     - component:Papiros
   dependsOn:
-    - component:SAP
-    - resource:AKS
+    - component:sap
+    - resource:ocp
   providesApis:
     - microt01
   

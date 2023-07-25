@@ -8,4 +8,15 @@ spec:
    type: k8s
    owner: Cloud
    system: integracion-ocp
+---
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+   name: sap
+   description: SAP R3
+   title: SAP R3
+spec:
+   type: k8s
+   owner: Cloud
+   system: integracion-ocp
 
