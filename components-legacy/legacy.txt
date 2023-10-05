@@ -46,3 +46,4 @@ TOA
 TOAETADirect
 TRS
 USSD
+Kernel

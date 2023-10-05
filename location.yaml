@@ -11,8 +11,3 @@ spec:
     - ./components-legacy/components.yaml
     - ./sytems-soluciones/systems.yaml
     - ./domains/domains.yml
-
-
-
-    
-

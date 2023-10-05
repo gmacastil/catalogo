@@ -12,11 +12,21 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-   name: sap
-   description: SAP R3
-   title: SAP R3
+   name: aks
+   description: Azure Kubernetes System
+   title: Azure Kubernetes System
 spec:
    type: k8s
-   owner: Cloud
-   system: integracion-ocp
-
+   owner: Infraestructura
+   system: aks
+---
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+   name: rancher
+   description: Cluster Rancher
+   title: Cluster Rancher
+spec:
+   type: k8s
+   owner: Infraestructura
+   system: rancher

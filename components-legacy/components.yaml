@@ -478,3 +478,12 @@ spec:
    lifecycle: production
    owner: Infraestructura
 ---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+   name: Kernel
+   description: Kernel
+spec:
+   type: legacy
+   lifecycle: production
+   owner: Infraestructura
