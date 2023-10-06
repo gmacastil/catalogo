@@ -3,10 +3,8 @@ kind: Group
 metadata:
    name: CelulaTamesys
    description: Celula Tamesys
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenAplicaciones
    children: []
 ---
@@ -15,10 +13,8 @@ kind: Group
 metadata:
    name: CelulaAtlantisTelefonica
    description: Celula Atlantis Telefonica
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenAplicaciones
    children: []
 ---
@@ -27,10 +23,8 @@ kind: Group
 metadata:
    name: CelulaYoiOwari
    description: Celula Yoi Owari
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenAplicaciones
    children: []
 ---
@@ -39,10 +33,8 @@ kind: Group
 metadata:
    name: CelulaSequoia
    description: Celula Sequoia
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenAplicaciones
    children: []
 ---
@@ -51,10 +43,8 @@ kind: Group
 metadata:
    name: CelulaRenew
    description: Celula Renew
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenAplicaciones
    children: []
 ---
@@ -63,10 +53,8 @@ kind: Group
 metadata:
    name: CelulaSoporteCasaCliente
    description: Celula Soporte Casa Cliente
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenAplicaciones
    children: []
 ---
@@ -75,10 +63,8 @@ kind: Group
 metadata:
    name: CelulaAIOPS
    description: Celula AIOPS
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenSharedServiceseInfraestructura
    children: []
 ---
@@ -87,10 +73,8 @@ kind: Group
 metadata:
    name: CelulaMeraki
    description: Celula Meraki
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenSharedServiceseInfraestructura
    children: []
 ---
@@ -99,10 +83,8 @@ kind: Group
 metadata:
    name: CelulaRadix
    description: Celula Radix
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenSharedServiceseInfraestructura
    children: []
 ---
@@ -111,10 +93,8 @@ kind: Group
 metadata:
    name: CelulaInnovacionExperienciaClientesB2B
    description: Celula Innovacion Experiencia Clientes B2B
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: ProductoB2B
    children: []
 ---
@@ -123,10 +103,8 @@ kind: Group
 metadata:
    name: CelulaDigitalizacionDeProcesos
    description: Celula Digitalizacion De Procesos
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: ProductoB2B
    children: []
 ---
@@ -135,10 +113,8 @@ kind: Group
 metadata:
    name: CelulaAxia
    description: Celula Axia
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenPropuestadeValor
    children: []
 ---
@@ -147,10 +123,8 @@ kind: Group
 metadata:
    name: CelulaVentasDigitalesPrepago
    description: Celula Ventas Digitales Prepago
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenE-commerce
    children: []
 ---
@@ -159,10 +133,8 @@ kind: Group
 metadata:
    name: CelulaBotana
    description: Celula Botana
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenE-care
    children: []
 ---
@@ -171,10 +143,8 @@ kind: Group
 metadata:
    name: CelulaCoeDatayAnalitica
    description: Celula Coe Data y Analitica
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: CoEDatayAnalitica
    children: []
 ---
@@ -183,10 +153,8 @@ kind: Group
 metadata:
    name: CelulaKodopco
    description: Celula Kodopco
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenFareco
    children: []
 ---
@@ -195,10 +163,8 @@ kind: Group
 metadata:
    name: CelulaBillingAndPayment
    description: Celula Billing And Payment
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: TrenFareco
    children: []
 ---
@@ -207,10 +173,8 @@ kind: Group
 metadata:
    name: CelulaAIOPSredes
    description: Celula AIOPS redes
-   tags:
-   - celula
 spec:
-   type: team
+   type: celula
    parent: OperacionesRedes
    children: []
 ---
