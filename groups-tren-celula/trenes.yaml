@@ -1,8 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: tren-aplicaciones
+   name: TrenAplicaciones
    description: Tren Aplicaciones
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -10,8 +12,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: tren-shared-services-e-infraestructura
+   name: TrenSharedServiceseInfraestructura
    description: Tren Shared Services e Infraestructura
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -19,8 +23,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: producto-b2b
+   name: ProductoB2B
    description: Producto B2B
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -28,8 +34,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: tren-propuesta-de-valor
+   name: TrenPropuestadeValor
    description: Tren Propuesta de Valor
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -37,8 +45,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: tren-e-commerce
+   name: TrenE-commerce
    description: Tren E-commerce
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -46,8 +56,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: tren-e-care
+   name: TrenE-care
    description: Tren E-care
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -55,8 +67,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: coe-data-y-analitica
+   name: CoEDatayAnalitica
    description: CoE Data y Analitica
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -64,8 +78,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: tren-fareco
+   name: TrenFareco
    description: Tren Fareco
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -73,8 +89,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: operaciones-redes
+   name: OperacionesRedes
    description: Operaciones Redes
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -82,8 +100,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: arquitectura
+   name: Arquitectura
    description: Arquitectura
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -91,8 +111,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: cloud
+   name: Cloud
    description: Cloud
+   tags:
+    - tren
 spec:
    type: team
    children: []
@@ -100,8 +122,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: infraestructura
+   name: Infraestructura
    description: Infraestructura
+   tags:
+    - tren
 spec:
    type: team
    children: []

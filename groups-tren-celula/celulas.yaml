@@ -1,180 +1,216 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-tamesys
+   name: CelulaTamesys
    description: Celula Tamesys
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-aplicaciones
+   parent: TrenAplicaciones
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-atlantis-telefonica
+   name: CelulaAtlantisTelefonica
    description: Celula Atlantis Telefonica
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-aplicaciones
+   parent: TrenAplicaciones
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-yoi-owari
+   name: CelulaYoiOwari
    description: Celula Yoi Owari
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-aplicaciones
+   parent: TrenAplicaciones
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-sequoia
+   name: CelulaSequoia
    description: Celula Sequoia
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-aplicaciones
+   parent: TrenAplicaciones
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-renew
+   name: CelulaRenew
    description: Celula Renew
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-aplicaciones
+   parent: TrenAplicaciones
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-soporte-casa-cliente
+   name: CelulaSoporteCasaCliente
    description: Celula Soporte Casa Cliente
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-aplicaciones
+   parent: TrenAplicaciones
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-aiops
+   name: CelulaAIOPS
    description: Celula AIOPS
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-shared-services-e-infraestructura
+   parent: TrenSharedServiceseInfraestructura
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-meraki
+   name: CelulaMeraki
    description: Celula Meraki
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-shared-services-e-infraestructura
+   parent: TrenSharedServiceseInfraestructura
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-radix
+   name: CelulaRadix
    description: Celula Radix
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-shared-services-e-infraestructura
+   parent: TrenSharedServiceseInfraestructura
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-innovacion-experiencia-clientes-b2b
+   name: CelulaInnovacionExperienciaClientesB2B
    description: Celula Innovacion Experiencia Clientes B2B
+   tags:
+   - celula
 spec:
    type: team
-   parent: producto-b2b
+   parent: ProductoB2B
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-digitalizacion-de-procesos
+   name: CelulaDigitalizacionDeProcesos
    description: Celula Digitalizacion De Procesos
+   tags:
+   - celula
 spec:
    type: team
-   parent: producto-b2b
+   parent: ProductoB2B
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-axia
+   name: CelulaAxia
    description: Celula Axia
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-propuesta-de-valor
+   parent: TrenPropuestadeValor
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-ventas-digitales-prepago
+   name: CelulaVentasDigitalesPrepago
    description: Celula Ventas Digitales Prepago
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-e-commerce
+   parent: TrenE-commerce
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-botana
+   name: CelulaBotana
    description: Celula Botana
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-e-care
+   parent: TrenE-care
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-coe-data-y-analitica
+   name: CelulaCoeDatayAnalitica
    description: Celula Coe Data y Analitica
+   tags:
+   - celula
 spec:
    type: team
-   parent: coe-data-y-analitica
+   parent: CoEDatayAnalitica
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-kodopco
+   name: CelulaKodopco
    description: Celula Kodopco
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-fareco
+   parent: TrenFareco
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-billing-and-payment
+   name: CelulaBillingAndPayment
    description: Celula Billing And Payment
+   tags:
+   - celula
 spec:
    type: team
-   parent: tren-fareco
+   parent: TrenFareco
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: celula-aiops-redes
+   name: CelulaAIOPSredes
    description: Celula AIOPS redes
+   tags:
+   - celula
 spec:
    type: team
-   parent: operaciones-redes
+   parent: OperacionesRedes
    children: []
 ---

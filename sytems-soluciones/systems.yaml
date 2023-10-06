@@ -1,9 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-   name: integracion-ocp
-   description: Servicios de integración OpenShift
+   name: ServiciosDeIntegracionOpenShift
    title: Servicios de integración OpenShift
 spec:
    owner: Cloud
-   domain: integracion
+   domain: ServiciosTransversalesDeIntegracion

@@ -1,32 +1,32 @@
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-   name: ocp
+   name: ClusterOpenShift
    description: Cluster OpenShift
    title: Cluster OpenShift
 spec:
-   type: k8s
+   type: cluster
    owner: Cloud
-   system: integracion-ocp
+   system: ServiciosDeIntegracionOpenShift
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-   name: aks
+   name: AzureKubernetesSystem
    description: Azure Kubernetes System
    title: Azure Kubernetes System
 spec:
-   type: k8s
+   type: cluster
    owner: Infraestructura
-   system: aks
+   system: ServiciosDeIntegracionAKS
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-   name: rancher
+   name: ClusterRancher
    description: Cluster Rancher
    title: Cluster Rancher
 spec:
-   type: k8s
+   type: cluster
    owner: Infraestructura
-   system: rancher
+   system: ServiciosDeIntegracionRancher
