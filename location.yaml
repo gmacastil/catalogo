@@ -11,4 +11,4 @@ spec:
     - ./groups-tren-celula/coe.yaml
     - ./components-legacy/components.yaml
     - ./sytems-soluciones/systems.yaml
-    - ./domains/domains.yml
+    - ./domains/domains.yaml
