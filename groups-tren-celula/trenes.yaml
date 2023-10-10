@@ -55,8 +55,8 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-   name: CoEDatayAnalítica
-   description: CoE Data y Analítica
+   name: CoEDatayAnalitica
+   description: CoE Data y Analitica
 spec:
    type: tren
    children: []

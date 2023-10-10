@@ -145,7 +145,7 @@ metadata:
    description: CelulaCoeDatayAnalitica
 spec:
    type: celula
-   parent: CoEDatayAnalítica
+   parent: CoEDatayAnalitica
    children: []
 ---
 apiVersion: backstage.io/v1alpha1
