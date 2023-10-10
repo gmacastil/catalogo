@@ -8,6 +8,7 @@ spec:
     - ./resources-infraestructura/resources.yaml
     - ./groups-tren-celula/trenes.yaml
     - ./groups-tren-celula/celulas.yaml
+    - ./groups-tren-celula/coe.yaml
     - ./components-legacy/components.yaml
     - ./sytems-soluciones/systems.yaml
     - ./domains/domains.yml

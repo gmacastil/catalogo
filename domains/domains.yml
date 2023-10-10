@@ -1,15 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-   name: ServiciosTransversalesDeIntegracion
-   title: Servicios Transversales de Integracion
+   name: ServiciosTelefonicaColombia
+   title: Servicios Telefónica Colombia
 spec:
    owner: Arquitectura
----
-apiVersion: backstage.io/v1alpha1
-kind: Domain
-metadata:
-   name: ServiciosTransaccionales
-   title: Servicios Transaccionales
-spec:
-   owner: Infraestructura
+

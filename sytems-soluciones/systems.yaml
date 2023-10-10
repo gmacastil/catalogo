@@ -1,8 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-   name: ServiciosDeIntegracionOpenShift
-   title: Servicios de integración OpenShift
+   name: PlataformaDeContenedores
+   title: Plataforma de Contenedores
 spec:
    owner: Cloud
-   domain: ServiciosTransversalesDeIntegracion
+   domain: ServiciosTelefonicaColombia
+
