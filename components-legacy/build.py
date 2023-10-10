@@ -10,7 +10,7 @@ for line in fin:
     fout.write("spec:\n")
     fout.write("   type: legacy\n")
     fout.write("   lifecycle: production\n")
-    fout.write("   owner: Infraestructura\n")
+    fout.write("   owner: Arquitectura\n")
     fout.write("---\n")
 fin.close()
 fout.close()
