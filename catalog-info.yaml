@@ -1,17 +1,18 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: catalogo
-  description: Repositorio para la gestión de catálogos de componentes, dominios, grupos y recursos de infraestructura utilizando Python
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: gmacastil/catalogo
     sonarqube.org/project-key: catalogo
+  description: "Repositorio para la gesti\xF3n de cat\xE1logos de componentes, dominios,\
+    \ grupos y recursos de infraestructura utilizando Python"
+  name: catalogo
   tags:
-    - python
-    - gestiondecatalogos
+  - python
+  - gestiondecatalogos
 spec:
-  type: service
-  owner: gmacastil
   lifecycle: production
+  owner: gmacastil
   system: dummy
+  type: service
