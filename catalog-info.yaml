@@ -15,23 +15,3 @@ spec:
   owner: gmacastil
   lifecycle: production
   system: discovery
-  providesApis:
-    - catalogo-api
----
-apiVersion: backstage.io/v1alpha1
-kind: API
-metadata:
-  name: catalogo-api
-  description: Repositorio para la gestión de catálogos de componentes, dominios, grupos y recursos de infraestructura utilizando Python
-  annotations:
-    backstage.io/techdocs-ref: dir:.
-  tags:
-    - python
-    - gestiondecatalogos
-spec:
-  type: openapi
-  owner: gmacastil
-  lifecycle: production
-  system: discovery
-  definition: 
-    $text: /docs/openapi.yaml
